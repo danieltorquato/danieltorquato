@@ -1,6 +1,6 @@
 Olá, sou o Daniel Torquato 👋
 
-![Daniel Torquato GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=75&locale=pt-BR&card_width=200px)        [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorquato&layout=compact&locale=pt-BR)](https://github.com/danieltorquato/github-readme-stats)
+![Daniel Torquato GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=75&locale=pt-BR&card_width=400px)        [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorquato&layout=compact&locale=pt-BR)](https://github.com/danieltorquato/github-readme-stats)
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=75&locale=pt-BR" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltorquato&show_icons=true&locale=en&layout=compact" align = "center"/>
