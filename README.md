@@ -1,9 +1,10 @@
 Olá, sou o Daniel Torquato 👋
 
-![Daniel Torquato GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=75&locale=pt-BR&card_width=400px)        [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorquato&layout=compact&locale=pt-BR)](https://github.com/danieltorquato/github-readme-stats)
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=75&locale=pt-BR" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltorquato&show_icons=true&locale=en&layout=compact" align = "center"/>
+
+
+<img alt="html5" src="https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=75&locale=pt-BR&card_width=400px">
+<img alt="CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorquato&layout=compact&locale=pt-BR">
 </p>
 <div>
 <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,3 +16,4 @@ Olá, sou o Daniel Torquato 👋
 <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 </div>
 
+![Daniel Torquato GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=75&locale=pt-BR&card_width=400px)        [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorquato&layout=compact&locale=pt-BR)](https://github.com/danieltorquato/github-readme-stats)
