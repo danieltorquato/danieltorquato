@@ -7,7 +7,7 @@
 <img alt="CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorquato&hide=contribs,prs&layout=compact">
 </p>
 
-<h3>Languages already used:</h3>
+<h3>Linguagens utilizadas:</h3>
 <p align="center">
 <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -16,7 +16,7 @@
 <img alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 </p>
-<h3>Studying:</h3>
+<h3>Estudando:</h3>
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
