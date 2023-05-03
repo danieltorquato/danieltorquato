@@ -4,7 +4,7 @@
 
 <p align="center">
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltorquato&hide=contribs,prs)
-<img alt="html5" src="https://github-readme-stats.vercel.app/api?username=danieltorquato&theme=dracula&border_radius=50&card_width=400px">
+<img alt="html5" src="https://github-readme-stats.vercel.app/api?username=danieltorquato&hide=contribs,prs&theme=dracula&border_radius=50&card_width=400px">
 <img alt="CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorquato&layout=compact">
 </p>
 
